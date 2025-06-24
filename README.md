@@ -3,8 +3,7 @@
 
  ## 📝 Project Overview
 
-     This Power BI project analyzes an E-commerce dataset to provide insights into sales performance, product profitability, customer segments, and regional trends. 
-     It includes data cleaning using Power Query, DAX measures for key KPIs, and a fully interactive report dashboard. 
+     This Power BI project analyzes an E-commerce dataset to provide insights into sales performance, product profitability, customer segments, and regional trends. It includes data cleaning using Power Query, DAX measures for key KPIs, and a fully interactive report dashboard.
 
 ## 🛠️ Tools & Technologies
 
@@ -52,4 +51,8 @@
 - **Bar Chart**: Sales by Product Name
 ## 💡 Conclusion
 
-  This Power BI project helps stakeholders gain quick and actionable insights into business performance. It can support decision-making across sales, marketing, and supply chain teams.# E-commerce_Reports
+  This Power BI project helps stakeholders gain quick and actionable insights into business performance. It can support decision-making across sales, marketing, and supply chain teams.
+## E-Commerce Report
+![Screenshot 2025-06-24 090743](https://github.com/user-attachments/assets/168ba9a6-6e14-46d7-a493-e8892b22ce54)
+
+  
