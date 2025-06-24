@@ -53,6 +53,6 @@
 
   This Power BI project helps stakeholders gain quick and actionable insights into business performance. It can support decision-making across sales, marketing, and supply chain teams.
 ## E-Commerce Report
-![Screenshot 2025-06-24 090743](https://github.com/user-attachments/assets/168ba9a6-6e14-46d7-a493-e8892b22ce54)
 
-  
+  ![Screenshot 2025-06-24 094703](https://github.com/user-attachments/assets/785f0984-e6d8-45db-9531-cb409a902625)
+
